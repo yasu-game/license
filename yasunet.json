@@ -1,0 +1,36 @@
+{
+  "available": "Y",
+  "expire": "2025.12.31",
+  "message": "이 프로그램의 저작권은 야수소프트에게 있습니다. 해당 프로그램의 사용에 관해서는 1년마다 저작자와 사용자간의 협의를 통해 결정하기로 합니다.",
+  "current_version": {
+    "version": "0.1.0",
+    "can_use_without_upgrade": true,
+    "notice_url": "https://yasusoft.com/notice/current-version",
+    "install_url": "https://yasusoft.com/download/latest"
+  },
+  "compatible_versions": [
+    {
+      "version": "0.0.0",
+      "can_use_without_upgrade": true,
+      "notice_url": "https://yasusoft.com/notice/v4-compatible",
+      "install_url": "https://yasusoft.com/download/v4"
+    },
+    {
+      "version": "0.0.0", 
+      "can_use_without_upgrade": false,
+      "notice_url": "https://yasusoft.com/notice/v3-upgrade-required",
+      "install_url": "https://yasusoft.com/download/v3-to-v5-upgrade"
+    },
+    {
+      "version": "0.0.0",
+      "can_use_without_upgrade": false,
+      "notice_url": "https://yasusoft.com/notice/v2-upgrade-required", 
+      "install_url": "https://yasusoft.com/download/v2-to-v5-upgrade"
+    }
+  ],
+  "upgrade_policy": {
+    "force_upgrade_below": "0.0.0",
+    "recommended_upgrade_above": "0.0.0",
+    "maintenance_end": "2024.12.31"
+  }
+}
