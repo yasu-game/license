@@ -1,8 +1,8 @@
 {
   "yy": "2025",
   "hakgi": "2",
-  "available": false,
-  "expire": "2025.09.01",
+  "available": true,
+  "expire": "2025.09.21",
   "message": "이 프로그램의 저작권은 야수소프트에게 있습니다. 해당 프로그램의 사용에 관해서는 1년마다 야수소프트와 용인예술과학대학교간의 협의를 통해 결정됩니다.",
   "current_version": {
     "version": "0.1.0",
