@@ -7,32 +7,20 @@
   "current_version": {
     "version": "0.1.0",
     "can_use_without_upgrade": true,
-    "notice_url": "https://yasusoft.com/notice/current-version",
-    "install_url": "https://yasusoft.com/download/latest"
+    "notice_url": "https://ssol.yasu.ac.kr/static/notice/current-version/index.html",
+    "install_url": "https://ssol.yasu.ac.kr/static/install/yasunet_0.1.0.zip"
   },
   "compatible_versions": [
     {
       "version": "0.0.0",
-      "can_use_without_upgrade": true,
-      "notice_url": "https://yasusoft.com/notice/v4-compatible",
-      "install_url": "https://yasusoft.com/download/v4"
-    },
-    {
-      "version": "0.0.0", 
       "can_use_without_upgrade": false,
-      "notice_url": "https://yasusoft.com/notice/v3-upgrade-required",
-      "install_url": "https://yasusoft.com/download/v3-to-v5-upgrade"
-    },
-    {
-      "version": "0.0.0",
-      "can_use_without_upgrade": false,
-      "notice_url": "https://yasusoft.com/notice/v2-upgrade-required", 
-      "install_url": "https://yasusoft.com/download/v2-to-v5-upgrade"
+      "notice_url": "https://ssol.yasu.ac.kr/static/notice/0.0.0/index.html",
+      "install_url": "https://ssol.yasu.ac.kr/static/install/yasunet_0.0.0.zip"
     }
   ],
   "upgrade_policy": {
-    "force_upgrade_below": "0.0.0",
-    "recommended_upgrade_above": "0.0.0",
-    "maintenance_end": "2024.12.31"
+    "force_upgrade_below": "0.1.0",
+    "recommended_upgrade_above": "0.1.0",
+    "maintenance_end": "2025.12.31"
   }
 }
