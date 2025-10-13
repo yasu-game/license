@@ -15,8 +15,8 @@
   },
   "compatible_versions": [
     {
-      "version": "0.0.0",
-      "can_use_without_upgrade": false,
+      "version": "0.1.2",
+      "can_use_without_upgrade": true,
       "notice_url": "https://ssol.yasu.ac.kr/static/notice/0.0.0/index.html",
       "install_url": "https://ssol.yasu.ac.kr/static/install/yasunet_0.0.0.zip"
     }
