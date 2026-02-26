@@ -1,6 +1,6 @@
 {
-  "yy": "2025",
-  "hakgi": "2",
+  "yy": "2026",
+  "hakgi": "1",
   "available": true,
   "expire": "2027.02.28",
   "stealth": true,
@@ -24,6 +24,6 @@
   "upgrade_policy": {
     "force_upgrade_below": "0.1.0",
     "recommended_upgrade_above": "0.1.0",
-    "maintenance_end": "2025.12.31"
+    "maintenance_end": "2027.02.28"
   }
 }
